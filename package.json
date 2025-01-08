@@ -1,0 +1,17 @@
+{
+  "name": "cracked-devs-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "@vercel/node": "^2.9.13",
+    "typescript": "^5.0.4",
+    "ts-node": "^10.9.1"
+  }
+} 
