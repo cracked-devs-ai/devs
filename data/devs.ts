@@ -16,7 +16,7 @@ export const developers: Developer[] = [
         name: 'Beginbot',
         image: 'https://pbs.twimg.com/profile_images/1701989433489391616/GrwX1T5T_400x400.jpg',
         github: 'davidbegin',
-        twitter: 'Beginbot',
+        twitter: 'beginbotbot',
         description: '',
         projects: []
       },
@@ -49,15 +49,6 @@ export const developers: Developer[] = [
       },
       {
         id: '6',
-        name: 'Crom Dev',
-        image: 'https://pbs.twimg.com/profile_images/1843399988094599168/uJyxcfoK_400x400.jpg',
-        github: 'doctorLightning',
-        twitter: 'doglectric ',
-        description: '',
-        projects: []
-      },
-      {
-        id: '7',
         name: 'Shaw',
         image: 'https://pbs.twimg.com/profile_images/1874151482682904576/1ZGG4rHK_400x400.jpg',
         github: 'lalalune',
@@ -66,7 +57,7 @@ export const developers: Developer[] = [
         projects: [projects.Eliza]
       },
       {
-        id: '8',
+        id: '7',
         name: 'Yohei Nakajima',
         image: 'https://pbs.twimg.com/profile_images/1452754543217831938/T2O-66Yy_400x400.jpg',
         github: 'yoheinakajima',
@@ -75,7 +66,7 @@ export const developers: Developer[] = [
         projects: []
       },
       {
-        id: '9',
+        id: '8',
         name: 'Grady laksmono',
         image: 'https://pbs.twimg.com/profile_images/1481278614054522884/bL_xe7Ml_400x400.jpg',
         github: 'glaksmono',
@@ -84,7 +75,7 @@ export const developers: Developer[] = [
         projects: []
       },
       {
-        id: '10',
+        id: '9',
         name: 'Daniel Nguyen',
         image: 'https://pbs.twimg.com/profile_images/1761093185504251904/ZcL6XCWc_400x400.jpg',
         github: 'longseespace',
@@ -93,7 +84,7 @@ export const developers: Developer[] = [
         projects: []
       },
       {
-        id: '11',
+        id: '10',
         name: 'Mohd Danish',
         image: 'https://pbs.twimg.com/profile_images/1199611613080276992/94p0_IIQ_400x400.png',
         github: 'mddanishyusuf',
