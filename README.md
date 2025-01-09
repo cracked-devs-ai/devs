@@ -13,7 +13,7 @@ A community-driven API showcasing cracked developers who are building in public.
 
 1. Fork this repository
 2. Add your project details to `data/projects.ts`
-3. Add your developer profile to `data/developers.ts`
+3. Add your developer profile to `data/devs.ts`
 4. Test your changes locally by running `npm run build`
 5. Open a PR back to the main repository
 
