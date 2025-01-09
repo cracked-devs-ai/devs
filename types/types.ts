@@ -27,6 +27,7 @@ export type Developer = {
  * @property keyword - Optional keyword/tag to categorize the project (this helps us identify users on social talking about your project)
  * @property github - Optional GitHub repository URL for the project
  * @property twitter - Optional Twitter URL for the project
+ * @property website - Optional website URL for the project
  */
 export type Project = {
   id: string;
@@ -36,4 +37,5 @@ export type Project = {
   keyword?: string;
   github?: string;
   twitter?: string;
+  website?: string;
 };
