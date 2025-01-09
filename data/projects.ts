@@ -12,7 +12,9 @@ export const projects: Record<string, Project> = {
     id: '2',
     name: 'Eliza',
     description: 'Eliza is a simple, fast, and lightweight AI agent framework.',
-    github: 'https://github.com/elizaOS/eliza'
+    tokenAddress: 'HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC',
+    github: 'https://github.com/elizaOS/eliza',
+    keyword: 'eliza',
   },
   Degen8Ball: {
     id: '3',
@@ -31,6 +33,7 @@ export const projects: Record<string, Project> = {
     id: '5',
     name: 'FOMO',
     description: 'Launch your own AI agent in seconds with FOMO. No code required. Just a few clicks and you\'re ready to go.',
+    tokenAddress: 'ZxBon4vcf3DVcrt63fJU52ywYm9BKZC6YuXDhb3fomo',
     github: 'https://github.com/fomoTon',
   }
 }
