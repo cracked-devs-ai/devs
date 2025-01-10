@@ -100,5 +100,14 @@ export const developers: Developer[] = [
         twitter: 'ineedtendies',
         description: '',
         projects: [projects.Degen8Ball, projects.Eliza]
+      },
+      {
+        id: '12',
+        name: 'Elm',
+        image: 'https://pbs.twimg.com/profile_images/1768350372265885696/xqDOIOVQ_400x400.jpg',
+        github: 'ElmTheDev',
+        twitter: 'ElmTheDev',
+        description: '',
+        projects: [projects.Sheerluck]
       }
 ];
