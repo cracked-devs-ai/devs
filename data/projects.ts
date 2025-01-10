@@ -125,13 +125,28 @@ export const projects: Record<string, Project> = {
     website: 'https://helius.dev/',
     keyword: 'helius'
   },
-  AgentTankLive: {
-    name: 'Agent Tank Live',
-    description: 'Building the first computer-use AI infrastructure in crypto. $TANK',
-    github: '',
-    twitter: 'https://x.com/AgentTankLive',
-    website: 'https://www.agenttank.live/',
-    tokenAddress: 'GAMwtMB6onAvBNBQJCJFuxoaqfPH8uCQ2dewNMVVpump',
-    keyword: 'agenttanklive'
+  Hyperfy: {
+    name: 'Hyperfy',
+    description: 'Explore and build the immersive web with others, instantly.',
+    github: 'https://github.com/hyperfy-io',
+    twitter: 'https://x.com/hyperfy_io',
+    website: 'https://hyperfy.io/',
+    keyword: 'hyperfy'
+  },
+  SolanaLabs: {
+    name: 'Solana Labs',
+    description: 'Solana Labs is a technology company that develops and invests in web3 products and the builder of @SolanaMobile.',
+    github: 'https://github.com/solana-labs',
+    twitter: 'https://x.com/solanalabs',
+    website: 'https://solanalabs.com/',
+    keyword: 'solanalabs'
+  },
+  JupiterExchange: {
+    name: 'Jupiter Exchange',
+    description: 'Building the best decentralized trading platform & largest DAO in crypto. Let’s accelerate the meta together.',
+    twitter: 'https://x.com/jupiterexchange',
+    website: 'https://jup.ag/',
+    tokenAddress: '27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4',
+    keyword: 'jupiter'
   }
 }

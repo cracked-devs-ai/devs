@@ -291,14 +291,6 @@ export const developers: Developer[] = [
         projects: [projects.Helius]
       },
       {
-        name: 'Ben Smith',
-        image: 'https://pbs.twimg.com/profile_images/1785870299491450880/7Mw-LYpV_400x400.jpg',
-        github: '',
-        twitter: 'bcsmithx',
-        description: 'building @AgentTankLive with four agents - e/acc',
-        projects: [projects.Eliza]
-      },
-      {
         name: 'Cardinal Error',
         image: 'https://avatars.githubusercontent.com/u/8969767?v=4',
         github: '0xCardinalError',
@@ -321,5 +313,29 @@ export const developers: Developer[] = [
         twitter: '',
         description: 'AI16Z contributor',
         projects: [projects.Eliza]
+      },
+      {
+        name: 'ashxn',
+        image: 'https://pbs.twimg.com/profile_images/1864639257757003776/qwFqldgV_400x400.png',
+        github: 'ashconnell',
+        twitter: 'AshConnell',
+        description: 'Digital Worlds, AI, Web3, Accelerate. Founder @hyperfy_io ⚡️ https://hyperfy.io 🔥 https://firebolt.dev',
+        projects: [projects.Hyperfy]
+      },
+      {
+        name: 'anatoly yakovenko',
+        image: 'https://avatars.githubusercontent.com/u/1029046?v=4',
+        github: 'aeyakovenko',
+        twitter: '',
+        description: 'hacking on @solana-labs . terrible surfer, world class underwater hockey player. @qualcomm, @mesosphere, @dropbox alum',
+        projects: [projects.SolanaLabs]
+      },
+      {
+        name: 'meow',
+        image: 'https://pbs.twimg.com/profile_images/1714205175815307264/-Uq7WveP_400x400.jpg',
+        github: 'whereismeow',
+        twitter: 'weremeow',
+        description: 'resident cat of @jupiterexchange. PROFESSIONAL EBGLISH SPEAKER',
+        projects: [projects.Hyperfy]
       }
 ];
