@@ -12,8 +12,8 @@ export type Developer = {
   name: string;
   image: string;
   github: string;
-  twitter: string;
   description: string;
+  twitter?: string;
   twitch?: string;
   youtube?: string;
   projects?: Project[];
