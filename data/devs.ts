@@ -81,5 +81,23 @@ export const developers: Developer[] = [
         twitter: 'mddanishyusuf',
         description: '',
         projects: []
+      },
+      {
+        id: '11',
+        name: 'Tenji',
+        image: 'https://pbs.twimg.com/profile_images/1801672505301532672/Nr76tLOV_400x400.png',
+        github: '0xNerd',
+        twitter: 'ineedtendies',
+        description: '',
+        projects: [projects.Degen8Ball, projects.Eliza]
+      },
+      {
+        id: '12',
+        name: 'Elm',
+        image: 'https://pbs.twimg.com/profile_images/1768350372265885696/xqDOIOVQ_400x400.jpg',
+        github: 'ElmTheDev',
+        twitter: 'ElmTheDev',
+        description: '',
+        projects: [projects.Sheerluck]
       }
 ];
