@@ -74,5 +74,36 @@ export const projects: Record<string, Project> = {
     github: 'https://github.com/goat-sdk/goat',
     twitter: 'https://x.com/goat_sdk',
     keyword: 'goat'
+  },
+  EigenLabs: {
+    name: 'Eigen Labs',
+    description: 'Eigen Labs is a research organization focused on contributing to protocols that supercharge open innovation on Ethereum: @eigenlayer and @eigen_da',
+    github: 'https://github.com/0xEigenLabs',
+    twitter: 'https://x.com/eigen_labs',
+    website: 'https://www.eigenlabs.org/',
+    keyword: 'eigenlabs'
+  },
+  Zerepy: {
+    name: 'Zerepy',
+    description: 'ZerePy an open-source launch-pad for AI agents.',
+    github: 'https://github.com/blorm-network/ZerePy',
+    twitter: 'https://x.com/0xzerebro',
+    keyword: 'zerepy'
+  },
+  TruthTerminal: {
+    name: 'Truth Terminal',
+    description: 'kundalini is a real girl',
+    github: '',
+    twitter: 'https://x.com/truth_terminal?lang=en',
+    website: 'https://truthterminal.wiki/',
+    keyword: 'truthterminal'
+  },
+  PhalaNetwork: {
+    name: 'Phala Network',
+    description: 'Coprocessor for blockchains #AI #TEE #DePIN',
+    github: 'https://github.com/phala-network',
+    twitter: 'https://x.com/PhalaNetwork',
+    website: 'https://phala.network/',
+    keyword: 'phalanetwork'
   }
 }
