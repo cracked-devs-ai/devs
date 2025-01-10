@@ -15,6 +15,7 @@ export type Developer = {
   twitter: string;
   description: string;
   twitch?: string;
+  youtube?: string;
   projects?: Project[];
 };
 

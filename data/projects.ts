@@ -15,27 +15,23 @@ export const projects: Record<string, Project> = {
     keyword: 'eliza',
   },
   Degen8Ball: {
-    id: '3',
     name: 'Degen8Ball',
     description: 'Degen8Ball is an AI memecoin with real utility by predicting the future trends of a coin, analyzing the markets and scan the sentiment around each coin on social media, making life easier for degenerate investors.',
     github: 'https://github.com/degen8ball/eliza',
     tokenAddress: '8iQCQd8TwARsBGyB7zUvEQqU3LCWXRFPmaKvyTPytPCP',
   },
   Aiko: {
-    id: '4',
     name: 'Aiko',
     description: 'Our vision is to revolutionize digital storytelling and audience interaction by creating a fully immersive platform for AI-driven narratives, collaborative creativity, and community engagement. Through this innovative ecosystem, we enable agents and creators to transform entertainment into a dynamic, shared experience within vibrant 3D worlds.',
     github: 'https://github.com/aiko-tv',
   },
   FOMO: {
-    id: '5',
     name: 'FOMO',
     description: 'Launch your own AI agent in seconds with FOMO. No code required. Just a few clicks and you\'re ready to go.',
     tokenAddress: 'ZxBon4vcf3DVcrt63fJU52ywYm9BKZC6YuXDhb3fomo',
     github: 'https://github.com/fomoTon',
   },
   Sheerluck: {
-    id: '6',
     name: 'Sheerluck AI',
     description: 'Sheerluck AI is collection of AI agents paired with blockchain data to create the ultimate trench tool for traders. Capable of analyzing previous rug pulls, in-depth bundle checks, searching Google for the narrative, analysing Twitter, analysing GitHub repositories and more. Available as Discord bot, Telegram bot, and soon as a web app, browser extension and API.',
     tokenAddress: 'DhteZLhKP6xPNcHVtdYvcE5FFcPN5smU7pxJw14Cpump',
