@@ -88,7 +88,7 @@ export const developers: Developer[] = [
         github: '0xNerd',
         twitter: 'ineedtendies',
         description: '',
-        projects: [projects.Degen8Ball, projects.Eliza]
+        projects: [projects.Degen8Ball, projects.Eliza, projects.FOMO]
       },
       {
         name: 'Elm',
@@ -97,5 +97,85 @@ export const developers: Developer[] = [
         twitter: 'ElmTheDev',
         description: '',
         projects: [projects.Sheerluck]
-      }
+      },
+      {
+        name: 'Ophiuchus',
+        image: 'https://pbs.twimg.com/profile_images/1850526115242082304/xoF9sqvT_400x400.jpg',
+        github: 'o-on-x',
+        twitter: 'O_on_X',
+        description: '',
+        projects: [projects.Eliza, projects.Ezsis]
+      },
+      {
+        name: 'Jin',
+        image: 'https://pbs.twimg.com/profile_images/1857657965144158209/QP3z9ONe_400x400.jpg',
+        github: 'madjin',
+        twitter: 'dankvr',
+        description: '🔍 Research | Web | VR/AR | Crypto\n🟧  Partner at @ai16zdao',
+        projects: [projects.Eliza, projects.M3]
+      },
+      {
+        name: 'Shakkernerd',
+        image: 'https://pbs.twimg.com/profile_images/1863750039736131584/243KLBOh_400x400.jpg',
+        github: 'shakkernerd',
+        twitter: 'shakkernerd',
+        description: 'I build interesting and fun crypto projects!\nAll things AI.\nBuilding & partner @ai16zdao',
+        projects: [projects.Eliza]
+      },
+      {
+        name: 'Loaf',
+        image: 'https://avatars.githubusercontent.com/u/90423308?v=4',
+        github: 'ponderingdemocritus',
+        twitter: 'LordOfAFew',
+        description: 'terraforming @cartridge_gg @LootRealms @bibliothecaDAO @ohayo_dojo',
+        projects: [projects.Eliza]
+      },
+      {
+        name: 'Odilitime',
+        image: 'https://avatars.githubusercontent.com/u/16395496?v=4',
+        github: 'odilitime',
+        twitter: '',
+        description: 'I scale stuff. I write fast web apps. Ex-DBA. DevOps. Runs a hosting company. Supporter of freedom of speech and expression. Anonymity should be a right.',
+        projects: [projects.Eliza]
+      },
+      {
+        name: 'cygaar',
+        image: 'https://pbs.twimg.com/profile_images/1874970187780194304/rEKKc4YC_400x400.jpg',
+        github: 'cygaar',
+        twitter: '0xCygaar',
+        description: 'sometimes a software engineer. contributing to @AbstractChain',
+        projects: [projects.AbstractChain, projects.Eliza]
+      },
+      {
+        name: 'Ninja_Dev',
+        image: 'https://pbs.twimg.com/profile_images/1819069128033857536/LXTJkkvZ_400x400.jpg',
+        github: 'azep-ninja',
+        twitter: 'ninja_dev3',
+        description: 'Founder @Quick-Intel',
+        projects: [projects.Eliza, projects.QuickIntel]
+      },
+      {
+        name: 'Malibu',
+        image: 'https://avatars.githubusercontent.com/u/70625671?v=4',
+        github: 'MarcoMandar',
+        twitter: '',
+        description: '',
+        projects: [projects.Eliza]
+      },
+      {
+        name: 'Jerad Bitner',
+        image: 'https://avatars.githubusercontent.com/u/28543?v=4',
+        github: 'sirkitree',
+        twitter: 'sirkitree',
+        description: '#VR \\ Developer & designer // project manager || cybernetic pantheist .||. techno-optimist',
+        projects: [projects.Eliza]
+      },
+      {
+        name: 'Agus',
+        image: 'https://avatars.githubusercontent.com/u/6149085?v=4',
+        github: '0xaguspunk',
+        twitter: '0xaguspunk',
+        description: 'Building @goat_sdk 🐐 ➡️ the Great Onchain Agent Toolkit // Product at @crossmint // prev @manifoldxyz // @spotify // @mordiscoxyz',
+        projects: [projects.Eliza]
+      },
 ];

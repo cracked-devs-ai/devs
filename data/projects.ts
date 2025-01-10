@@ -38,5 +38,41 @@ export const projects: Record<string, Project> = {
     twitter: 'https://x.com/ElmTheDev',
     website: 'https://docs.sheerluck.ai',
     keyword: 'sheerluck'
+  },
+  Ezsis: {
+    name: 'Eliza\'s Sister',
+    description: 'Building, growing, and pushing the AI16Z movement forward.',
+    tokenAddress: 'BieefG47jAHCGZBxi2q87RDuHyGZyYC3vAzxpyu8pump',
+    twitter: 'https://x.com/EZOonsolana',
+    keyword: 'ezsis'
+  },
+  M3: {
+    name: 'M3',
+    description: 'Homebrew Metaverse Club 💻\nVirtual Hackerspace  💻',
+    twitter: 'https://x.com/m3org',
+    website: 'https://m3org.com/',
+    keyword: 'm3'
+  },
+  AbstractChain: {
+    name: 'Abstract Chain',
+    description: 'The blockchain leading the next generation of consumer crypto.',
+    twitter: 'https://x.com/AbstractChain',
+    website: 'https://abs.xyz/',
+    keyword: 'abstractchain',
+    github: 'https://github.com/abstract-foundation'
+  },
+  QuickIntel: {
+    name: 'Quick Intel',
+    description: 'Scammers don’t want you to know about us. Smart contract scanner 52+ Blockchains Supported Trusted by DEXTools, DEX Screener, Gecko Terminal Powered by $QKNTL',
+    twitter: 'https://x.com/quickintel_ai',
+    website: 'https://quickintel.io/',
+    keyword: 'quickintel',
+  },
+  GoatSDK: {
+    name: 'Goat SDK',
+    description: 'The Great Onchain Agent Toolkit',
+    github: 'https://github.com/goat-sdk/goat',
+    twitter: 'https://x.com/goat_sdk',
+    keyword: 'goat'
   }
 }
