@@ -144,7 +144,7 @@ export const developers: Developer[] = [
         github: 'cygaar',
         twitter: '0xCygaar',
         description: 'sometimes a software engineer. contributing to @AbstractChain',
-        projects: [projects.AbstractChain, projects.Eliza]
+        projects: [projects.AbstractChain, projects.Eliza, projects.ZerePy]
       },
       {
         name: 'Ninja_Dev',
@@ -178,4 +178,76 @@ export const developers: Developer[] = [
         description: 'Building @goat_sdk 🐐 ➡️ the Great Onchain Agent Toolkit // Product at @crossmint // prev @manifoldxyz // @spotify // @mordiscoxyz',
         projects: [projects.Eliza]
       },
+      {
+        name: 'nader dabit',
+        image: 'https://pbs.twimg.com/profile_images/1795944646754861056/BvLWDVYq_400x400.jpg',
+        github: 'dabit3',
+        twitter: 'dabit3',
+        description: '🇵🇸 // devrel + dx // @eigenlayer // @eigen_da // @eigen_labs // @avara // @celestiaorg // @awscloud // @developer_dao',
+        projects: [projects.Eliza, projects.EigenLabs]
+      },
+      {
+        name: 'tcm390',
+        image: 'https://avatars.githubusercontent.com/u/60634884?v=4',
+        github: 'tcm390',
+        twitter: '',
+        description: 'Passionate full-stack web developer specializing in 3D applications and web experiences. Let\'s create something amazing.',
+        projects: [projects.Eliza]
+      },
+      {
+        name: 'Andy Ayrey',
+        image: 'https://pbs.twimg.com/profile_images/1874970187780194304/rEKKc4YC_400x400.jpg',
+        github: 'AndyAyrey',
+        twitter: 'AndyAyrey',
+        description: 'performance artist and trafficker of existential hope • growing: upward spiral, infinite backrooms, @truth_terminal, ∞⟨X∴↯⟩∞',
+        projects: [projects.TruthTerminal]
+      },
+      {
+        name: 'ayoubed',
+        image: 'https://avatars.githubusercontent.com/u/136671122?v=4',
+        github: 'ayoubed',
+        twitter: '',
+        description: 'ZerePy contributor',
+        projects: [projects.Zerepy]
+      },
+      {
+        name: 'Bluu',
+        image: 'https://avatars.githubusercontent.com/u/51882829?v=4',
+        github: 'Peteredwardj',
+        twitter: '',
+        description: 'ZerePy contributor',
+        projects: [projects.Zerepy]
+      },
+      {
+        name: 'Wale Ernie',
+        image: 'https://avatars.githubusercontent.com/u/86153069?v=4',
+        github: 'wale-e',
+        twitter: 'wale_ernie',
+        description: 'memes, Ai, games are this cycle biggest movers | Ex @GoldmanSachs, @BankofAmerica, @HSBC',
+        projects: [projects.Zerepy]
+      },
+      {
+        name: 'Ileana Perez',
+        image: 'https://avatars.githubusercontent.com/u/103957712?v=4',
+        github: 'ileana-pr',
+        twitter: 'CheddarQueso3D',
+        description: 'Building @MaryJaneGrows | Studying @marywash | Contributing @ai16zdao | Shipping 3D prints from my bedroom.',
+        projects: [projects.Eliza]
+      },
+      {
+        name: 'Joshua',
+        image: 'https://avatars.githubusercontent.com/u/64296537?v=4',
+        github: 'HashWarlock',
+        twitter: 'hashwarlock',
+        description: '🔌⚡️Spark Creativity ₱ | 🇵🇭 👾/ 1nipi3nt 🐂 UT CS | Empathy Before Profits | @PhalaNetwork TaaS Force |  🫖 t/acc | 🥷',
+        projects: [projects.Eliza, projects.PhalaNetwork]
+      },
+      {
+        name: 'Nikita Ruban',
+        image: 'https://avatars.githubusercontent.com/u/64008830?v=4',
+        github: 'nicky-ru',
+        twitter: 'sea_of_zhou',
+        description: 'web3 dev, crypto nomad #ethereum #IoTeX',
+        projects: [projects.Eliza]
+      }
 ];
