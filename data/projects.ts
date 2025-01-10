@@ -88,6 +88,7 @@ export const projects: Record<string, Project> = {
     description: 'ZerePy an open-source launch-pad for AI agents.',
     github: 'https://github.com/blorm-network/ZerePy',
     twitter: 'https://x.com/0xzerebro',
+    tokenAddress: '8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn',
     keyword: 'zerepy'
   },
   TruthTerminal: {
@@ -96,6 +97,7 @@ export const projects: Record<string, Project> = {
     github: '',
     twitter: 'https://x.com/truth_terminal?lang=en',
     website: 'https://truthterminal.wiki/',
+    tokenAddress: 'CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump',
     keyword: 'truthterminal'
   },
   PhalaNetwork: {
@@ -105,5 +107,31 @@ export const projects: Record<string, Project> = {
     twitter: 'https://x.com/PhalaNetwork',
     website: 'https://phala.network/',
     keyword: 'phalanetwork'
+  },
+  OreSupply: {
+    name: 'Ore Supply',
+    description: 'Digital gold on Solana. Hard, liquid, secure and easy to mine. Liquidity for onchain commodities. Max supply 5 million tokens.',
+    github: 'https://github.com/regolith-labs',
+    twitter: 'https://x.com/oresupply',
+    website: 'https://ore.supply/',
+    tokenAddress: 'oreoU2P8bN6jkk3jbaiVxYnG1dCXcYxwhwyK9jSybcp',
+    keyword: 'oresupply'
+  },
+  Helius: {
+    name: 'Helius',
+    description: 'Solana\'s top RPCs, APIs, data, nodes, and developer support.',
+    github: 'https://github.com/helius-labs',
+    twitter: 'https://x.com/heliuslabs',
+    website: 'https://helius.dev/',
+    keyword: 'helius'
+  },
+  AgentTankLive: {
+    name: 'Agent Tank Live',
+    description: 'Building the first computer-use AI infrastructure in crypto. $TANK',
+    github: '',
+    twitter: 'https://x.com/AgentTankLive',
+    website: 'https://www.agenttank.live/',
+    tokenAddress: 'GAMwtMB6onAvBNBQJCJFuxoaqfPH8uCQ2dewNMVVpump',
+    keyword: 'agenttanklive'
   }
 }

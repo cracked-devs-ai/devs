@@ -235,7 +235,7 @@ export const developers: Developer[] = [
         projects: [projects.Eliza]
       },
       {
-        name: 'Joshua',
+        name: 'Agent Joshua ₱',
         image: 'https://avatars.githubusercontent.com/u/64296537?v=4',
         github: 'HashWarlock',
         twitter: 'hashwarlock',
@@ -248,6 +248,78 @@ export const developers: Developer[] = [
         github: 'nicky-ru',
         twitter: 'sea_of_zhou',
         description: 'web3 dev, crypto nomad #ethereum #IoTeX',
+        projects: [projects.Eliza]
+      },
+      {
+        name: 'Kevin Wang',
+        image: 'https://avatars.githubusercontent.com/u/6442159?v=4',
+        github: 'kvinwang',
+        twitter: '',
+        description: '',
+        projects: [projects.PhalaNetwork]
+      },
+      {
+        name: 'Jun Jiang',
+        image: 'https://avatars.githubusercontent.com/u/1024162?v=4',
+        github: 'jasl',
+        twitter: '',
+        description: 'Beyond a Rails guy, Hello Rust!',
+        projects: [projects.PhalaNetwork]
+      },
+      {
+        name: 'Hang Yin',
+        image: 'https://avatars.githubusercontent.com/u/1343470?v=4',
+        github: 'h4x3rotab',
+        twitter: 'bgmshana',
+        description: 'Co-founder @PhalaNetwork; offchain maxi / build on #ethereum / #TEE Pilled / #DecentralizeEverything',
+        projects: [projects.PhalaNetwork]
+      },
+      {
+        name: 'Hardhat Chad',
+        image: 'https://pbs.twimg.com/profile_images/1816582163724427264/q7q9v_a7_400x400.jpg',
+        github: 'HardhatChad',
+        twitter: 'HardhatChad',
+        description: 'Foreman @OREsupply, Maintainer @STEELnew',
+        projects: [projects.OreSupply]
+      },
+      {
+        name: 'mert | helius.dev',
+        image: 'https://pbs.twimg.com/profile_images/1869346713409830912/rhlOQji7_400x400.jpg',
+        github: 'mertimus',
+        twitter: '0xMert_',
+        description: 'ceo @heliuslabs — Solana RPCs & APIs: http://helius.dev — seeker of good explanations — bare-knuckle typist',
+        projects: [projects.Helius]
+      },
+      {
+        name: 'Ben Smith',
+        image: 'https://pbs.twimg.com/profile_images/1785870299491450880/7Mw-LYpV_400x400.jpg',
+        github: '',
+        twitter: 'bcsmithx',
+        description: 'building @AgentTankLive with four agents - e/acc',
+        projects: [projects.Eliza]
+      },
+      {
+        name: 'Cardinal Error',
+        image: 'https://avatars.githubusercontent.com/u/8969767?v=4',
+        github: '0xCardinalError',
+        twitter: '0xCardinalError',
+        description: '🔍 Smart Money on-chain Yapper 🔍\n⚒️ Digging interesting crypto projects ⚒️',
+        projects: [projects.Eliza]
+      },
+      {
+        name: 'tomguluson92',
+        image: 'https://avatars.githubusercontent.com/u/19585240?v=4',
+        github: 'tomguluson92',
+        twitter: '',
+        description: 'Hi there 👋 I am an AI explorer.',
+        projects: [projects.Eliza]
+      },
+      {
+        name: 'oxSaturn',
+        image: 'https://avatars.githubusercontent.com/u/126733611?v=4',
+        github: 'oxSaturn',
+        twitter: '',
+        description: 'AI16Z contributor',
         projects: [projects.Eliza]
       }
 ];
