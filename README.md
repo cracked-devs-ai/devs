@@ -24,5 +24,4 @@ A community-driven API showcasing cracked developers who are building in public.
     - Right click and select "Copy image address"
 2. Keep descriptions concise and professional
 3. Ensure all links are valid
-4. Use unique IDs for both projects and developer profiles (iterate by 1 from the last ID)
 5. Make note of which fields are optional and which are required

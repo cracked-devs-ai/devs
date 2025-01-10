@@ -9,12 +9,12 @@
  * @property projects - Optional array of projects associated with the developer
  */
 export type Developer = {
-  id: string;
   name: string;
   image: string;
   github: string;
   twitter: string;
   description: string;
+  twitch?: string;
   projects?: Project[];
 };
 
@@ -30,7 +30,6 @@ export type Developer = {
  * @property website - Optional website URL for the project
  */
 export type Project = {
-  id: string;
   name: string;
   description: string;
   tokenAddress?: string;
