@@ -249,5 +249,13 @@ export const developers: Developer[] = [
         twitter: 'sea_of_zhou',
         description: 'web3 dev, crypto nomad #ethereum #IoTeX',
         projects: [projects.Eliza]
-      }
+      },
+      {
+        name: 'Blake Hatch',
+        image: 'https://avatars.githubusercontent.com/u/48665344?s=400&u=896f6204fc4a9deb5f22b57b0064d96b5578b15e&v=4',
+        github: 'blakehatch',
+        twitter: 'BlakeWHatch',
+        description: 'Creator CertaiK_Agent | Prev. Co-Founder & CTO Viridian Exchange | ODX1 Accelerator | Northeastern CS Alum',
+        projects: [projects.CertaiK]
+      },
 ];

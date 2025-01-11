@@ -105,5 +105,13 @@ export const projects: Record<string, Project> = {
     twitter: 'https://x.com/PhalaNetwork',
     website: 'https://phala.network/',
     keyword: 'phalanetwork'
+  },
+  CertaiK: {
+    name: 'CertaiK',
+    description: 'AI Smart Contract Auditing Agent',
+    github: 'https://github.com/Bevor-Protocol/CertaiK',
+    twitter: 'https://x.com/CertaiK_Agent',
+    website: 'https://certaik.xyz/',
+    keyword: 'certaik'
   }
 }
