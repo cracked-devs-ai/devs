@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "tsc",
-    "dev": "vercel dev"
+    "sync-supabase": "ts-node scripts/sync-supabase.ts"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.47.13",

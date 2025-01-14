@@ -25,7 +25,7 @@ jobs:
           npm install
           npm install @supabase/supabase-js
           
-      - name: Sync JSON files to Supabase
+      - name: Sync files to Supabase
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
