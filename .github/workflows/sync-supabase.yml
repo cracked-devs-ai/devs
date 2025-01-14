@@ -1,0 +1,36 @@
+name: Sync to Supabase
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'developers/profiles/**'
+      - 'projects/profiles/**'
+
+# Ensure only repository owners can access the logs
+permissions:
+  actions: read
+  contents: read
+
+jobs:
+  sync:
+    if: github.event.pusher.name == github.repository_owner
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: |
+          npm install
+          npm install @supabase/supabase-js
+          
+      - name: Sync JSON files to Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: npm run sync-supabase 
