@@ -12,8 +12,8 @@ A community-driven API showcasing cracked developers who are building in public.
 ## How to Add Yourself
 
 1. Fork this repository
-2. Add your project details to `data/projects.ts`
-3. Add your developer profile to `data/devs.ts`
+2. Create a new file in the `projects` directory, nameing it after your project and adding your project details to it
+3. Create a new file in the `developers` directory, nameing it after your github username and adding your developer details to it
 4. Test your changes locally by running `npm run build`
 5. Open a PR back to the main repository
 
@@ -24,5 +24,4 @@ A community-driven API showcasing cracked developers who are building in public.
     - Right click and select "Copy image address"
 2. Keep descriptions concise and professional
 3. Ensure all links are valid
-4. Use unique IDs for both projects and developer profiles (iterate by 1 from the last ID)
 5. Make note of which fields are optional and which are required
